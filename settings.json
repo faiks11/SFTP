@@ -1,0 +1,14 @@
+{
+  "remote_serv": {
+    "host": "",
+    "port": 0
+  },
+  "login": {
+    "login": "",
+    "password": ""
+  },
+  "path": {
+    "local_path": "",
+    "remote_path":""
+  }
+}
